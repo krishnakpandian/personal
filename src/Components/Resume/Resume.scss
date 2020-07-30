@@ -1,0 +1,10 @@
+.resume-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    embed {
+        height: 85vh;
+        width: 40vw;
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "projects": [
+         {
+            "name": "Universal Send", 
+            "icon": "",
+            "color": "primary",
+            "description": "Rest API that Allows users to make multiplatform Posting easily",
+            "link": "",
+            "tools": ["NodeJS", "ReactJS", "API"]
+         },
+         {
+            "name": "Chat Room", 
+            "icon": "",
+            "color": "secondary",
+            "description": "Web Application that allows users to join Chat Rooms with others",
+            "link": "",
+            "tools": ["NodeJS", "ReactJS", "Sockets"]
+         },
+         {
+            "name": "Microwave Alexa Hack", 
+            "icon": "",
+            "color": "success",
+            "description": "Alexa Controlled microwave made at SLOHacks",
+            "link": "",
+            "tools": ["Python", "AWS", "Logic Design"]
+         },
+         {
+            "name": "New York Times Subscription Service", 
+            "icon": "",
+            "color": "danger",
+            "description": "A mailing service that sends users information from the NYT",
+            "link": "",
+            "tools": ["Python", "SMTP"]
+         },
+         {
+            "name": "BattleBoats on a Microcontroller", 
+            "icon": "",
+            "color": "warning",
+            "description": "A recreation of the game battleboats on a microcontroller",
+            "link": "",
+            "tools": ["C", "Microcontroller"]
+         },
+         {
+            "name": "Disaster Alert", 
+            "icon": "",
+            "color": "info",
+            "description": "An Alexa skill that notifies users if a loved one is near a global event",
+            "link": "",
+            "tools": ["AWS", "NodeJS", "API"]
+         },
+         {
+            "name": "Firestore CRUD Tutorial", 
+            "icon": "",
+            "color": "light",
+            "description": "A basic tutorial on how users can develop a CRUD REST API with Cloud Firestore",
+            "link": "",
+            "tools": ["Firestore", "Express", "NodeJS"]
+         },
+         {
+            "name": "Pokemon Twitter Bot", 
+            "icon": "",
+            "color": "dark",
+            "description": "A responsive Twitter Bot that tweets out random pokedex entries",
+            "link": "",
+            "tools": ["Python", "Twitter", "API"]
+         },
+         {
+            "name": "Meme-Hub", 
+            "icon": "",
+            "color": "primary",
+            "description": "A Mockup of a meme sharing Website",
+            "link": "",
+            "tools": ["Firestore", "ReactJS"]
+         }
+    ]
+}

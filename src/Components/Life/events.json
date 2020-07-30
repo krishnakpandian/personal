@@ -1,0 +1,24 @@
+{
+    "events": [
+         {
+            "name": "CruzHacks", 
+            "img": "CruzHacks_2020",
+            "description": ""
+         },
+         {
+            "name": "Hackathons", 
+            "img": "Hackathons",
+            "description": ""
+         },
+         {
+            "name": "SASE", 
+            "img": "SASE_WRC",
+            "description": ""
+         },
+         {
+            "name": "Research", 
+            "img": "Hackathons",
+            "description": ""
+         }
+    ]
+}

@@ -1,0 +1,16 @@
+.projects-container {
+    .title {
+        
+    }
+    .project-list {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-left: 10%;
+        margin-right:10%;
+        ProjectCard {
+            margin-bottom: 100%;
+        }
+    }
+}
