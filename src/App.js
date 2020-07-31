@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './App.scss';
-import { HashRouter as Router, Switch, Route} from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route} from "react-router-dom";
 import Header from "./Components/Header/Header.js";
 import Footer from "./Components/Footer/Footer.js";
 import Resume from "./Components/Resume/Resume.js";
