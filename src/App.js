@@ -16,11 +16,11 @@ class App extends Component {
   render () {
   return (
     <div class="App">
-      <Router basename="personal">
+      <Router basename="/personal/">
         <Header/>
         <div class = "body">
         <Switch>  
-          <Route exact path="/life" >
+          <Route path="/life" >
             <Life/>
           </Route>
           <Route path="/projects">
