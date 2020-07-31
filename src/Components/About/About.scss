@@ -1,3 +1,20 @@
 .about-container {
-    
+    padding: 0vh 10vw 0 10vw;
+    .profile {
+        margin-top: 5vh;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-evenly;
+        .react-reveal {
+            font-family: "sans-serif";
+            font-size: 22px;
+            color: purple;
+            img {
+            height: 20vw;
+            width: 20vw;
+            border-radius: 10vw;
+            }
+        }
+    }
 }

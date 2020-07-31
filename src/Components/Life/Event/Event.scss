@@ -1,3 +1,24 @@
 .event-container {
-    
+    img {
+        height: 18vw;
+        width: 35vw;
+    }
+    .card {
+        width: 35vw;
+        height: 40vw;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .event-container {
+        img {
+            height: 180px;
+            width: 375px;
+        }
+        .card {
+            height: 450px;
+            width: 375px;
+            font-size: 12px;
+        }
+    }
 }

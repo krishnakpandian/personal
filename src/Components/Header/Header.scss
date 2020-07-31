@@ -1,10 +1,24 @@
 .header-container {
     padding-top: 20px;
+    min-height: 10vh;
     header {
         display: flex;
         justify-content: space-evenly;
         Button {
             width: 120px;
+        }
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .header-container {
+        padding-top: 20px;
+        header {
+            display: flex;
+            justify-content: space-evenly;
+            Button {
+                width: 80px;
+            }
         }
     }
 }

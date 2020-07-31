@@ -1,3 +1,19 @@
 .projectCard-container {
-    
+    opacity: 1;
+    transition: 500ms;
+    overflow: none;
+    .card {
+        width: 25vw;
+        height: 60vh;
+    }   
+
+}
+
+@media screen and (max-width: 768px) {
+    .projectCard-container {
+        .card {
+            width: 300px;
+            height: 550px;
+        }   
+    }
 }

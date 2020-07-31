@@ -1,21 +1,21 @@
 import React from 'react';
 import "./Life.scss";
-import CruzHacks from '../../Assets/CruzHacks_2020.JPG';
-import SloHacks from '../../Assets/Hackathons.JPG';
-import SASE from '../../Assets/SASE_WRC.jpeg';
 import Event from './Event/Event.js';
 import data from './events.json';
+import Title from '../Shared/Title/Title.js';
 const Life = () => {
     return(
         <React.Fragment>
             <div class ="life-container">
-                <div class="title">Life Renders </div>
+                <Title title="Life"/>
+                <div class="events">
                 {data.events.map((event,i) => {
                     return(
                         <Event data={event}/>
                     );
                 }) 
                 }
+                </div>
             </div>
         </React.Fragment>
     );

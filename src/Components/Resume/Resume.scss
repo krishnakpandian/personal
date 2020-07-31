@@ -3,8 +3,15 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    embed {
+    object {
         height: 85vh;
         width: 40vw;
+        min-width: 350px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .resume-container {
+        font-size: 22px;
     }
 }

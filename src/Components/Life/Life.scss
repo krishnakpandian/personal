@@ -1,3 +1,14 @@
 .life-container{
-    
+    .title {
+
+    }
+    .events {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        .event-container {
+            margin-bottom: 10vh;
+        }
+    }
 }

@@ -2,75 +2,80 @@
     "projects": [
          {
             "name": "Universal Send", 
-            "icon": "",
             "color": "primary",
-            "description": "Rest API that Allows users to make multiplatform Posting easily",
-            "link": "",
+            "description": "This Project was a REST API that a friend and I developed to help with platform managament. Multiplatform posting can be quite difficult and we developed a REST API to allow users to post to multiple platforms simultaneously. We built a frontend to allow simplicity in posting.",
+            "link": "https://github.com/krishnakpandian/universal_send",
             "tools": ["NodeJS", "ReactJS", "API"]
          },
          {
             "name": "Chat Room", 
-            "icon": "",
             "color": "secondary",
-            "description": "Web Application that allows users to join Chat Rooms with others",
-            "link": "",
+            "description": "This application a React App that I built by myself using ReactJS and express. The purpose of this web app is to allow users to be able to join chat rooms with ease and simplicity. This was my first attempt with using sockets for development but it was really interesting seeing how the frontend interacted with the backend.",
+            "link": "https://github.com/krishnakpandian/ChatRoom",
             "tools": ["NodeJS", "ReactJS", "Sockets"]
          },
          {
             "name": "Microwave Alexa Hack", 
-            "icon": "",
             "color": "success",
-            "description": "Alexa Controlled microwave made at SLOHacks",
-            "link": "",
+            "description": "This project was built at SLOHacks 2019 and we won Best IOT/Hardware Hack and Best use of a Qualcomm Device. In this project we modified a microwave and gave it Alexa functionality. I worked on rewiring the microwave and passing data in Python. This was one of the craziest projects I have worked on.",
+            "link": "https://devpost.com/software/muicrowave",
             "tools": ["Python", "AWS", "Logic Design"]
          },
          {
             "name": "New York Times Subscription Service", 
-            "icon": "",
             "color": "danger",
-            "description": "A mailing service that sends users information from the NYT",
-            "link": "",
-            "tools": ["Python", "SMTP"]
+            "description": "In this project, I recreated the NYT mailing service using google scripts and networking protocols. This program scrapes the NYT for all the articles on the web page and reformats all that information which it sends out using SMTP.",
+            "link": "https://github.com/krishnakpandian/NYT_Subscription",
+            "tools": ["Python", "SMTP", "BS4"]
          },
          {
             "name": "BattleBoats on a Microcontroller", 
-            "icon": "",
             "color": "warning",
-            "description": "A recreation of the game battleboats on a microcontroller",
-            "link": "",
-            "tools": ["C", "Microcontroller"]
+            "description": "This was actually a class project but it generally considered one of the hardest assignments for Computer Engineering majors. In this assignment, we had to recreate the game of battleboats on a microcontroller and me a partner were able to get it working!",
+            "link": "https://www.youtube.com/watch?v=o0VLEKaTDWA",
+            "tools": ["C", "Microcontroller", "Embedded Systems"]
          },
          {
             "name": "Disaster Alert", 
-            "icon": "",
             "color": "info",
-            "description": "An Alexa skill that notifies users if a loved one is near a global event",
-            "link": "",
-            "tools": ["AWS", "NodeJS", "API"]
+            "description": "This project was developed at CruzHacks with 2 other people. Disaster Alert is an Alexa skill that interacts with a basic frontend application that notifies users if a loved one is near an accident. We were able to win 2nd Place in the best Alexa skill category.",
+            "link": "https://devpost.com/software/disaster-alert",
+            "tools": ["AWS", "NodeJS", "HTML/CSS"]
          },
          {
             "name": "Firestore CRUD Tutorial", 
-            "icon": "",
             "color": "light",
-            "description": "A basic tutorial on how users can develop a CRUD REST API with Cloud Firestore",
-            "link": "",
-            "tools": ["Firestore", "Express", "NodeJS"]
+            "description": "This was a tutorial on how to use Google Cloud Firestore's NoSQL database. In this tutorial, I show someone how to setup and deploy a CRUD REST API as a cloud function. This tutorial will be using express to give users who have built REST API's before easy understanding on how it works.",
+            "link": "https://github.com/krishnakpandian/Firestore_CRUD_App",
+            "tools": ["Firestore", "NoSQL", "NodeJS"]
          },
          {
             "name": "Pokemon Twitter Bot", 
-            "icon": "",
             "color": "dark",
-            "description": "A responsive Twitter Bot that tweets out random pokedex entries",
-            "link": "",
+            "description": "This was a project I worked on by myself. In this project, I created a responsive Twitter Bot that responds to users with pokedex information and an image of the pokemon. This was developed with Python and was deployed for some time until I began running out of credits. :( ",
+            "link": "https://github.com/krishnakpandian/Pokemon_Twitter_Bot",
             "tools": ["Python", "Twitter", "API"]
          },
          {
             "name": "Meme-Hub", 
-            "icon": "",
             "color": "primary",
-            "description": "A Mockup of a meme sharing Website",
-            "link": "",
-            "tools": ["Firestore", "ReactJS"]
+            "description": "This project is similar to a platform sharing site like Reddit and it allows users to post images under their name. Me and a friend worked on this and we created a system where users can post images and have them publicly viewable. We also created an account system for users to log in and out.",
+            "link": "https://github.com/krishnakpandian/memehub",
+            "tools": ["Firestore", "ReactJS", "NoSQL"]
+         },
+         {
+            "name": "Youtube Summarizer", 
+            "color": "primary",
+            "description": "This project was developed as a side project to create summaries given a youtube video. I used a summary API and fetched caption data from youtube's API and created a summary of the content given a youtube URL.",
+            "link": "https://github.com/krishnakpandian/Youtube_Summarizer",
+            "tools": ["Python", "Requests", "API"]
+         },
+         {
+            "name": "SQLite Applicant System", 
+            "color": "primary",
+            "description": "This was another side project I worked on a while ago which was a basic SQL query management system. In this, I created a couple functions to add information about potential applicants and automatically filter applicants through data they have created.",
+            "link": "https://github.com/krishnakpandian/SQLite3_Application_Database",
+            "tools": ["Python", "SQL", "API"]
          }
     ]
 }
