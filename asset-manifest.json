@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/krishna-pandian.github.io/static/css/main.7d35e7ef.chunk.css",
+    "main.js": "/krishna-pandian.github.io/static/js/main.b22f2d1d.chunk.js",
+    "main.js.map": "/krishna-pandian.github.io/static/js/main.b22f2d1d.chunk.js.map",
+    "runtime-main.js": "/krishna-pandian.github.io/static/js/runtime-main.2fec4f58.js",
+    "runtime-main.js.map": "/krishna-pandian.github.io/static/js/runtime-main.2fec4f58.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/krishna-pandian.github.io/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.6c22b208.chunk.js": "/krishna-pandian.github.io/static/js/2.6c22b208.chunk.js",
+    "static/js/2.6c22b208.chunk.js.map": "/krishna-pandian.github.io/static/js/2.6c22b208.chunk.js.map",
+    "index.html": "/krishna-pandian.github.io/index.html",
+    "precache-manifest.e4125a05f116ddb39c36bbfcbe9eb90f.js": "/krishna-pandian.github.io/precache-manifest.e4125a05f116ddb39c36bbfcbe9eb90f.js",
+    "service-worker.js": "/krishna-pandian.github.io/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/krishna-pandian.github.io/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.7d35e7ef.chunk.css.map": "/krishna-pandian.github.io/static/css/main.7d35e7ef.chunk.css.map",
+    "static/js/2.6c22b208.chunk.js.LICENSE.txt": "/krishna-pandian.github.io/static/js/2.6c22b208.chunk.js.LICENSE.txt",
+    "static/media/Baskin.jpg": "/krishna-pandian.github.io/static/media/Baskin.f32c8d7b.jpg",
+    "static/media/CruzHacks_2020.JPG": "/krishna-pandian.github.io/static/media/CruzHacks_2020.10dc764e.JPG",
+    "static/media/Hackathons.JPG": "/krishna-pandian.github.io/static/media/Hackathons.cf3e2c56.JPG",
+    "static/media/Profile.JPG": "/krishna-pandian.github.io/static/media/Profile.359d0678.JPG",
+    "static/media/SASE_WRC.jpeg": "/krishna-pandian.github.io/static/media/SASE_WRC.2aa4bdb5.jpeg",
+    "static/media/T4g.png": "/krishna-pandian.github.io/static/media/T4g.698a210c.png",
+    "static/media/Web_Resume.pdf": "/krishna-pandian.github.io/static/media/Web_Resume.9a786e1e.pdf",
+    "static/media/App.scss": "/krishna-pandian.github.io/static/media/background.242e2f0b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fec4f58.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.6c22b208.chunk.js",
+    "static/css/main.7d35e7ef.chunk.css",
+    "static/js/main.b22f2d1d.chunk.js"
+  ]
+}
