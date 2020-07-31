@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './App.scss';
-import { BrowserRouter as Router, Switch, Route} from "react-router-dom";
+import { HashRouter as Router, Switch, Route} from "react-router-dom";
 import Header from "./Components/Header/Header.js";
 import Footer from "./Components/Footer/Footer.js";
 import Resume from "./Components/Resume/Resume.js";
@@ -16,7 +16,7 @@ class App extends Component {
   render () {
   return (
     <div class="App">
-      <Router basename="/personal/">
+      <Router>
         <Header/>
         <div class = "body">
         <Switch>  
