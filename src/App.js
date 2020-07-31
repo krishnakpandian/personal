@@ -20,16 +20,16 @@ class App extends Component {
         <Header/>
         <div class = "body">
         <Switch>  
-          <Route path="/life" >
+          <Route exact path="/life" >
             <Life/>
           </Route>
-          <Route path="/projects">
+          <Route exact path="/projects">
           <Projects/>
           </Route>
-          <Route path="/resume">
+          <Route exact path="/resume">
           <Resume/>
           </Route>
-          <Route path="/">
+          <Route exact path="/">
           <About/>
           </Route>
         </Switch>
