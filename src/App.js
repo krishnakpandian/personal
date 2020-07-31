@@ -16,7 +16,7 @@ class App extends Component {
   render () {
   return (
     <div class="App">
-      <Router>
+      <Router basename="personal">
         <Header/>
         <div class = "body">
         <Switch>  
