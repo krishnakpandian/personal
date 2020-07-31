@@ -4,16 +4,34 @@
     overflow: none;
     .card {
         width: 25vw;
-        height: 60vh;
+        height: 70vh;
     }   
 
 }
+
+@media screen and (max-width: 1070px) {
+    .projectCard-container {
+        .card {
+            .card-body {
+                .card-text {
+                    font-size: 13px;
+                }
+            }
+        }
+    }
+}
+
 
 @media screen and (max-width: 768px) {
     .projectCard-container {
         .card {
             width: 300px;
             height: 550px;
+            .card-body {
+                .card-text {
+                    font-size: 16px;
+                }
+            }
         }   
     }
 }

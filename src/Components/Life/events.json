@@ -14,13 +14,13 @@
          },
          {
             "name": "Tech4Good", 
-            "img": "",
+            "img": "Tech4Good",
             "description": "I am currently part of Tech4Good, a research lab aimed around research in social computing. Tech4Good primarily develops applications to support social good. In Tech4Good, I've been able to work in AngularJS, HTML, and CSS and develop various UI components on multiple different platforms. Some platforms I've worked on include the Tech4Good website, Relate, and Lettuce.",
             "links": "https://tech4good.soe.ucsc.edu/#/"
          },
          {
             "name": "UCSC VAMA", 
-            "img": "",
+            "img": "Baskin",
             "description": "I am also a part of VAMA which stands for Vertical Architecture, Memory, and Algorithms. VAMA is composed of various UC Santa Cruz staff performing reserach on architecture related projects. I spent summer 2020 working on a project called essent which is a simulator designed to output a signal simulation given a hardware design. I have been able to learn so much about hardware and software development.",
             "links": "https://github.com/ucsc-vama" 
          },
