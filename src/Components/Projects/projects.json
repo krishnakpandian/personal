@@ -3,7 +3,7 @@
          {
             "name": "Universal Send", 
             "color": "primary",
-            "description": "This Project was a REST API that a friend and I developed to help with platform managament. Multiplatform posting can be quite difficult and we developed a REST API to allow users to post to multiple platforms simultaneously. We built a frontend to allow simplicity in posting.",
+            "description": "This Project was a REST API that a friend and I developed to help with platform managament. Multiplatform posting can be quite difficult so we developed a REST API to allow users to post to multiple platforms simultaneously. We built a frontend as an inerface to allow simplicity in posting.",
             "link": "https://github.com/krishnakpandian/universal_send",
             "tools": ["NodeJS", "ReactJS", "API"]
          },

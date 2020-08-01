@@ -9,11 +9,11 @@ const Footer = () => {
         <footer>
             <b>Contact Me</b>
             <div class="links">
-              <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer" class="fa fa-linkedin fa-2x"> </a>
-              <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer" class="fa fa-facebook fa-2x"> </a>
+              <a href="https://www.linkedin.com/in/krishna-kumar-pandian/" target="_blank" rel="noopener noreferrer" class="fa fa-linkedin fa-2x"> </a>
+              <a href="https://www.facebook.com/krishna.pandian.35/" target="_blank" rel="noopener noreferrer" class="fa fa-facebook fa-2x"> </a>
               <a href="mailto:krishnakpandian@gmail.com" target="_blank" rel="noopener noreferrer" class="fa fa-mail-reply fa-2x"> </a>
-              <a href="https://twitter.com/"  target="_blank" rel="noopener noreferrer" class="fa fa-twitter fa-2x"> </a>
-              <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer" class="fa fa-github fa-2x"> </a>
+              <a href="https://twitter.com/krishnakpandian"  target="_blank" rel="noopener noreferrer" class="fa fa-twitter fa-2x"> </a>
+              <a href="https://github.com/krishnakpandian" target="_blank" rel="noopener noreferrer" class="fa fa-github fa-2x"> </a>
             </div>
         </footer>
         </div>

@@ -3,32 +3,32 @@
          {
             "name": "CruzHacks", 
             "img": "CruzHacks_2020",
-            "description": "CruzHacks is UC Santa Cruz's annual Hackathon. Every year we bring over 600+ students around the nation together for a 36 hour hackathon. This past year I've had the opportunity to help organize CruzHacks 2020 and host one of the biggest tech events in Santa Cruz. CruzHacks took an immense amount of time to plan and organize but ultimately the friendships, memories, and knowledge I gained through this was ultimately worth it.",
+            "description": "CruzHacks is UC Santa Cruz's annual Hackathon. Every year we bring 600+ students around the nation together for a 36 hour hackathon. This past year I've had the opportunity to help organize CruzHacks 2020 and host one of the biggest tech events in Santa Cruz. CruzHacks took an immense amount of time to plan and organize but ultimately the friendships, memories, and knowledge I gained through this was worth the effort.",
             "links": "https://www.cruzhacks.com/"
          },
          {
             "name": "SASE", 
             "img": "SASE_WRC",
-            "description": "SASE stands for the Society of Asian Scientists and Engineers and we are national organization aimed around promoting diversity within the workforce. More specifically, Asians tend to be struggle to enter the workforce as stereotypes reinforce the expectations for perfection. SASE aims to challenge and empower asian students to enter STEM and challenge the social norms surrounding being an Asian student in STEM.",
+            "description": "SASE stands for the Society of Asian Scientists and Engineers and we are national organization aimed around promoting diversity within the workforce. More specifically, Asians tend to struggle to enter the workforce as stereotypes create unrealistic expectations from Asian students. SASE aims to empower asian students entering STEM and challenge the social norms surrounding being an Asian student in STEM.",
             "links": "https://sase.soe.ucsc.edu/about/"
          },
          {
             "name": "Tech4Good", 
             "img": "Tech4Good",
-            "description": "I am currently part of Tech4Good, a research lab aimed around research in social computing. Tech4Good primarily develops applications to support social good. In Tech4Good, I've been able to work in AngularJS, HTML, and CSS and develop various UI components on multiple different platforms. Some platforms I've worked on include the Tech4Good website, Relate, and Lettuce.",
+            "description": "I am currently part of Tech4Good, a research lab aimed around developing products for social good. Tech4Good is part of the computational media department at UC Santa Cruz. In Tech4Good, I've been able to work in AngularJS, HTML, and CSS and develop various UI components on multiple different platforms. Some platforms I've worked on include the Tech4Good website, Relate, and Lettuce.",
             "links": "https://tech4good.soe.ucsc.edu/#/"
          },
          {
             "name": "UCSC VAMA", 
             "img": "Baskin",
-            "description": "I am also a part of VAMA which stands for Vertical Architecture, Memory, and Algorithms. VAMA is composed of various UC Santa Cruz staff performing reserach on architecture related projects. I spent summer 2020 working on a project called essent which is a simulator designed to output a signal simulation given a hardware design. I have been able to learn so much about hardware and software development.",
+            "description": "I am also a part of VAMA which stands for Vertical Architecture, Memory, and Algorithms. VAMA is composed of various Computer Engineering staff from UCSC performing reserach on architecture related projects. I spent my summer 2020 working on a project called essent which is a simulator designed to output a signal simulation given a hardware design. I have been able to learn so much about hardware and software development.",
             "links": "https://github.com/ucsc-vama" 
          },
          {
             "name": "Hackathons", 
             "img": "Hackathons",
-            "description": "On the side, I like to go to Hackathons. I haven't been to too many hackathons but I've really enjoyed my experience at the few I have attended. My experience with hackathons was my primary inspiration to join the CruzHacks organizing team. I have built a couple hackathon projects which you can view on the projects page.",
-            "links": "/projects"
+            "description": "On the side, I like to go to Hackathons. I haven't been to too many hackathons but I've really enjoyed my experience at the few I have attended. My experience with hackathons was my primary inspiration to join the CruzHacks organizing team. I have built a couple hackathon projects which you can view on the projects page. I plan to continue going out to more online and in person hackathons!",
+            "links": "https://krishnakpandian.github.io/personal/#/projects"
          }
     ]
 }

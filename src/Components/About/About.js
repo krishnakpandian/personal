@@ -3,7 +3,7 @@ import "./About.scss";
 import Title from "../Shared/Title/Title.js";
 import Fade from 'react-reveal/Fade';
 import img from '../../Assets/Profile.JPG';
-import Card from 'react-bootstrap/Card'
+
 const About = () => {
     return (
         <React.Fragment>
