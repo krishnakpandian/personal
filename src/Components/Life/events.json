@@ -29,6 +29,12 @@
             "img": "Hackathons",
             "description": "On the side, I like to go to Hackathons. I haven't been to too many hackathons but I've really enjoyed my experience at the few I have attended. My experience with hackathons was my primary inspiration to join the CruzHacks organizing team. I have built a couple hackathon projects which you can view on the projects page. I plan to continue going out to more online and in person hackathons!",
             "links": "https://krishnakpandian.github.io/personal/#/projects"
+         },
+         {
+            "name": "Hundred Days of Code Challenge", 
+            "img": "Code100",
+            "description": "This is something I started recently but I began working on FreeCodeCamp's 100 day of Code Challenge. Most people document their progress through a Github respository but I decided to keep track of my progress with this React app which is deployed on Firebase. You can check out my progress and work with the link below! I will have updates on it daily and show the days I fail to continue this challenge!",
+            "links": "https://hundreddaychallenge-fe11d.web.app/"
          }
     ]
 }

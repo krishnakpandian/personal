@@ -6,7 +6,8 @@ const ImageIndex = (imageName) => {
         "Profile": require("../../Assets/Profile.JPG"),
         "BSOE": require("../../Assets/BSOE.png"),
         "Baskin": require("../../Assets/Baskin.jpg"),
-        "Tech4Good": require("../../Assets/T4g.png")
+        "Tech4Good": require("../../Assets/T4g.png"),
+        "Code100": require("../../Assets/Code100.png")
     }
     return images[imageName];
 }
