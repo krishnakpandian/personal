@@ -1,6 +1,6 @@
 import React from 'react';
 import './Resume.scss'
-import pdf from '../../Assets/Resume_Pandian_v2.pdf';
+import pdf from '../../Assets/Resume_Pandian_Krishna.pdf';
 import Title from '../Shared/Title/Title.js';
 
 const Resume = () => {
