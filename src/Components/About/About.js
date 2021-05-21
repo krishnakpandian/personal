@@ -20,7 +20,7 @@ const About = () => {
                             </div>
 
                             <div>
-                                I am super interested in software development, embedded systems, and IOT.
+                                I am super interested in distributed systems, backend applications, and network applications.
                                 I am motivated and passionate about building and learning new things with different tools and technologies.
                             </div>
                             <div>
