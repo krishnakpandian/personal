@@ -1,13 +1,13 @@
 const ImageIndex = (imageName) => {
     const images = {
-        "CruzHacks_2020": require("../../Assets/CruzHacks_2020.JPG"),
-        "Hackathons": require("../../Assets/Hackathons.JPG"),
-        "SASE_WRC": require("../../Assets/SASE_WRC.jpeg"),
+        "CruzHacks_2020": require("../../Assets/Life/CruzHacks_2020.JPG"),
+        "Hackathons": require("../../Assets/Life/Hackathons.JPG"),
+        "SASE_WRC": require("../../Assets/Life/SASE_WRC.jpeg"),
         "Profile": require("../../Assets/Profile.JPG"),
-        "BSOE": require("../../Assets/BSOE.png"),
-        "Baskin": require("../../Assets/Baskin.jpg"),
-        "Tech4Good": require("../../Assets/T4g.png"),
-        "Code100": require("../../Assets/Code100.png")
+        "BSOE": require("../../Assets/Life/BSOE.png"),
+        "Baskin": require("../../Assets/Life/Baskin.jpg"),
+        "Tech4Good": require("../../Assets/Life/T4g.png"),
+        "Code100": require("../../Assets/Life/Code100.png")
     }
     return images[imageName];
 }

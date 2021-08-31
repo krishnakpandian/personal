@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React from 'react';
 import './App.scss';
 import { HashRouter as Router, Switch, Route} from "react-router-dom";
 import Header from "./Components/Header/Header.js";
@@ -8,12 +8,7 @@ import Life from "./Components/Life/Life.js";
 import About from "./Components/About/About.js";
 import Projects from "./Components/Projects/Projects.js";
 
-class App extends Component {
-  constructor(props){
-    super(props);
-  }
-
-  render () {
+const App = () => {
   return (
     <div class="App">
       <Router>
@@ -34,7 +29,6 @@ class App extends Component {
       </Router>
     </div>
   );
-  }
 }
 
 export default App;

@@ -2,7 +2,7 @@ import React from 'react';
 import "./About.scss";
 import Title from "../Shared/Title/Title.js";
 import Fade from 'react-reveal/Fade';
-import img from '../../Assets/Profile.JPG';
+import img from '../../Assets/Krishna_Pic.jpg';
 
 const About = () => {
     return (
@@ -20,11 +20,11 @@ const About = () => {
                             </div>
 
                             <div>
-                                I am super interested in distributed systems, backend applications, and network applications.
+                                My primary interests lie in distributed systems, computer networking, and backend applications.
                                 I am motivated and passionate about building and learning new things with different tools and technologies.
                             </div>
                             <div>
-                                In my free time I love to work on side projects, play board games, and try new foods with friends.
+                                In my free time I love to work on side projects, play games, and try new foods with friends.
                             </div>
                         </div>
                     </Fade>

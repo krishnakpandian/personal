@@ -1,81 +1,109 @@
 {
-    "projects": [
-         {
-            "name": "Universal Send", 
-            "color": "primary",
-            "description": "This Project was a REST API that a friend and I developed to help with platform managament. Multiplatform posting can be quite difficult so we developed a REST API to allow users to post to multiple platforms simultaneously. We built a frontend as an inerface to allow simplicity in posting.",
-            "link": "https://github.com/krishnakpandian/universal_send",
-            "tools": ["NodeJS", "ReactJS", "API"]
-         },
-         {
-            "name": "Chat Room", 
-            "color": "secondary",
-            "description": "This application a React App that I built by myself using ReactJS and express. The purpose of this web app is to allow users to be able to join chat rooms with ease and simplicity. This was my first attempt with using sockets for development but it was really interesting seeing how the frontend interacted with the backend.",
-            "link": "https://github.com/krishnakpandian/ChatRoom",
-            "tools": ["NodeJS", "ReactJS", "Sockets"]
-         },
-         {
-            "name": "Microwave Alexa Hack", 
-            "color": "success",
-            "description": "This project was built at SLOHacks 2019 and we won Best IOT/Hardware Hack and Best use of a Qualcomm Device. In this project we modified a microwave and gave it Alexa functionality. I worked on rewiring the microwave and passing data in Python. This was one of the craziest projects I have worked on.",
-            "link": "https://devpost.com/software/muicrowave",
-            "tools": ["Python", "AWS", "Logic Design"]
-         },
-         {
-            "name": "New York Times Subscription Service", 
-            "color": "danger",
-            "description": "In this project, I recreated the NYT mailing service using google scripts and networking protocols. This program scrapes the NYT for all the articles on the web page and reformats all that information which it sends out using SMTP.",
-            "link": "https://github.com/krishnakpandian/NYT_Subscription",
-            "tools": ["Python", "SMTP", "BS4"]
-         },
-         {
-            "name": "BattleBoats on a Microcontroller", 
-            "color": "warning",
-            "description": "This was actually a class project but it generally considered one of the hardest assignments for Computer Engineering majors. In this assignment, we had to recreate the game of battleboats on a microcontroller and me a partner were able to get it working!",
-            "link": "https://www.youtube.com/watch?v=o0VLEKaTDWA",
-            "tools": ["C", "Microcontroller", "Embedded Systems"]
-         },
-         {
-            "name": "Disaster Alert", 
-            "color": "info",
-            "description": "This project was developed at CruzHacks with 2 other people. Disaster Alert is an Alexa skill that interacts with a basic frontend application that notifies users if a loved one is near an accident. We were able to win 2nd Place in the best Alexa skill category.",
-            "link": "https://devpost.com/software/disaster-alert",
-            "tools": ["AWS", "NodeJS", "HTML/CSS"]
-         },
-         {
-            "name": "Firestore CRUD Tutorial", 
-            "color": "light",
-            "description": "This was a tutorial on how to use Google Cloud Firestore's NoSQL database. In this tutorial, I show someone how to setup and deploy a CRUD REST API as a cloud function. This tutorial will be using express to give users who have built REST API's before easy understanding on how it works.",
-            "link": "https://github.com/krishnakpandian/Firestore_CRUD_App",
-            "tools": ["Firestore", "NoSQL", "NodeJS"]
-         },
-         {
-            "name": "Pokemon Twitter Bot", 
-            "color": "dark",
-            "description": "This was a project I worked on by myself. In this project, I created a responsive Twitter Bot that responds to users with pokedex information and an image of the pokemon. This was developed with Python and was deployed for some time until I began running out of credits. :( ",
-            "link": "https://github.com/krishnakpandian/Pokemon_Twitter_Bot",
-            "tools": ["Python", "Twitter", "API"]
-         },
-         {
-            "name": "Meme-Hub", 
-            "color": "primary",
-            "description": "This project is similar to a platform sharing site like Reddit and it allows users to post images under their name. Me and a friend worked on this and we created a system where users can post images and have them publicly viewable. We also created an account system for users to log in and out.",
-            "link": "https://github.com/krishnakpandian/memehub",
-            "tools": ["Firestore", "ReactJS", "NoSQL"]
-         },
-         {
-            "name": "Youtube Summarizer", 
-            "color": "primary",
-            "description": "This project was developed as a side project to create summaries given a youtube video. I used a summary API and fetched caption data from youtube's API and created a summary of the content given a youtube URL.",
-            "link": "https://github.com/krishnakpandian/Youtube_Summarizer",
-            "tools": ["Python", "Requests", "API"]
-         },
-         {
-            "name": "SQLite Applicant System", 
-            "color": "primary",
-            "description": "This was another side project I worked on a while ago which was a basic SQL query management system. In this, I created a couple functions to add information about potential applicants and automatically filter applicants through data they have created.",
-            "link": "https://github.com/krishnakpandian/SQLite3_Application_Database",
-            "tools": ["Python", "SQL", "API"]
-         }
-    ]
+  "projects": [
+    {
+      "name": "We-Locate",
+      "color": "primary",
+      "description": "For one of my classes, we had to create any application as long as we go through the process of scrum. My team and I created a housing relocation application that will give you analytics on housing depending on preferences and it will query that through our backend and give the responses on our frontend. It was one of the coolest apps I have ever built and I definitely learned a lot from some mistakes we made while developing.",
+      "link": "https://github.com/krishnakpandian/CSE-115-frontend",
+      "tools": ["React", "Flask", "REST"]
+    },
+    {
+      "name": "Code4Good",
+      "color": "primary",
+      "description": "Prior to getting my internship at JPMorgan, I got invited to their hackathon where I got to compete. My team and I built a full-stack app where we could help Quinn college help present themselves as a location where people can gain an affordable quality education. First time using springboot, but it was a really fun hackathon for being virtual. I hope I can compete in this hackathon again sometime in the future. :)",
+      "link": "https://github.com/krishnakpandian/CFG-Team-13",
+      "tools": ["React", "Java", "Springboot"]
+    },
+    {
+      "name": "Department of Energy Challenge - 2nd Place",
+      "color": "primary",
+      "description": "One of the biggest challenges of the 21st century is obtaining renewable energy. My friends and I decided to create an application on behalf of the Department of Energy to create an application that properly goes through some the advantages of various Geothermal energy sources and how we can use this to improve the future and reduce carbon emissions. We won 2nd place nationally so that's cool.",
+      "link": "https://geothermal-future.web.app/",
+      "tools": ["Node", "Firebase", "Heroku"]
+    },
+    {
+      "name": "Sudoku Online",
+      "color": "primary",
+      "description": "During the beginning of the COVID-19 pandemic, I got really into sudoku. I got quite good if I had to say so myself but none of my friends with me. So I decided to build a web application that allows us to play on the same sudoku board together. Unfortunately, even after making it, my friends still did not play sudoku with me. :(  ",
+      "link": "https://github.com/krishnakpandian/Sudoku_Online",
+      "tools": ["Node", "React", "Sockets"]
+    },
+    {
+      "name": "Universal Send",
+      "color": "primary",
+      "description": "This Project was a REST API that a friend and I developed to help with platform managament. Multiplatform posting can be quite difficult so we developed a REST API to allow users to post to multiple platforms simultaneously. We built a frontend as an interface to allow simplicity in posting.",
+      "link": "https://github.com/krishnakpandian/universal_send",
+      "tools": ["Node", "React", "API"]
+    },
+    {
+      "name": "Chat Room",
+      "color": "secondary",
+      "description": "This application a React App that I built by myself using React and express. The purpose of this web app is to allow users to be able to join chat rooms with ease and simplicity. This was my first attempt with using sockets for development but it was really interesting seeing how the frontend interacted with the backend.",
+      "link": "https://github.com/krishnakpandian/ChatRoom",
+      "tools": ["Node", "React", "Sockets"]
+    },
+    {
+      "name": "Microwave Alexa Hack",
+      "color": "success",
+      "description": "This project was built at SLOHacks 2019 and we won Best IOT/Hardware Hack and Best use of a Qualcomm Device. In this project we modified a microwave and gave it Alexa functionality. I worked on rewiring the microwave and passing data in Python. This was one of the craziest projects I have worked on.",
+      "link": "https://devpost.com/software/muicrowave",
+      "tools": ["Python", "AWS", "Logic Design"]
+    },
+    {
+      "name": "New York Times Subscription Service",
+      "color": "danger",
+      "description": "In this project, I recreated the NYT mailing service using google scripts and networking protocols. This program scrapes the NYT for all the articles on the web page and reformats all that information which it sends out using SMTP.",
+      "link": "https://github.com/krishnakpandian/NYT_Subscription",
+      "tools": ["Python", "SMTP", "BS4"]
+    },
+    {
+      "name": "BattleBoats on a Microcontroller",
+      "color": "warning",
+      "description": "This was actually a class project but it generally considered one of the hardest assignments for Computer Engineering majors. In this assignment, we had to recreate the game of battleboats on a microcontroller and me a partner were able to get it working!",
+      "link": "https://www.youtube.com/watch?v=o0VLEKaTDWA",
+      "tools": ["C", "Microcontroller", "Embedded Systems"]
+    },
+    {
+      "name": "Disaster Alert",
+      "color": "info",
+      "description": "This project was developed at CruzHacks with 2 other people. Disaster Alert is an Alexa skill that interacts with a basic frontend application that notifies users if a loved one is near an accident. We were able to win 2nd Place in the best Alexa skill category.",
+      "link": "https://devpost.com/software/disaster-alert",
+      "tools": ["AWS", "Node", "HTML/CSS"]
+    },
+    {
+      "name": "Firestore CRUD Tutorial",
+      "color": "light",
+      "description": "This was a tutorial on how to use Google Cloud Firestore's NoSQL database. In this tutorial, I show someone how to setup and deploy a CRUD REST API as a cloud function. This tutorial will be using express to give users who have built REST API's before easy understanding on how it works.",
+      "link": "https://github.com/krishnakpandian/Firestore_CRUD_App",
+      "tools": ["Firestore", "NoSQL", "Node"]
+    },
+    {
+      "name": "Pokemon Twitter Bot",
+      "color": "dark",
+      "description": "This was a project I worked on by myself. In this project, I created a responsive Twitter Bot that responds to users with pokedex information and an image of the pokemon. This was developed with Python and was deployed for some time until I began running out of credits. :( ",
+      "link": "https://github.com/krishnakpandian/Pokemon_Twitter_Bot",
+      "tools": ["Python", "Twitter", "API"]
+    },
+    {
+      "name": "Meme-Hub",
+      "color": "primary",
+      "description": "This project is similar to a platform sharing site like Reddit and it allows users to post images under their name. Me and a friend worked on this and we created a system where users can post images and have them publicly viewable. We also created an account system for users to log in and out.",
+      "link": "https://github.com/krishnakpandian/memehub",
+      "tools": ["Firestore", "React", "NoSQL"]
+    },
+    {
+      "name": "Youtube Summarizer",
+      "color": "primary",
+      "description": "This project was developed as a side project to create summaries given a youtube video. I used a summary API and fetched caption data from youtube's API and created a summary of the content given a youtube URL.",
+      "link": "https://github.com/krishnakpandian/Youtube_Summarizer",
+      "tools": ["Python", "Requests", "API"]
+    },
+    {
+      "name": "SQLite Applicant System",
+      "color": "primary",
+      "description": "This was another side project I worked on a while ago which was a basic SQL query management system. In this, I created a couple functions to add information about potential applicants and automatically filter applicants through data they have created.",
+      "link": "https://github.com/krishnakpandian/SQLite3_Application_Database",
+      "tools": ["Python", "SQL", "API"]
+    }
+  ]
 }
