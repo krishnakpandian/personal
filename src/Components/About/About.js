@@ -16,7 +16,7 @@ const About = () => {
                         </div>
                         <div class="bio">
                             <div>
-                                Hello there! My name is Krishna Pandian, and I am a junior Computer Engineering Major at UC Santa Cruz. 
+                                Hello there! My name is Krishna Pandian, and I am a senior Computer Engineering Major with a minor in Computer Science at UC Santa Cruz. 
                             </div>
 
                             <div>
